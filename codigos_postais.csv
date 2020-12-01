@@ -1,4 +1,4 @@
-,codigo_postal,localidade,distrito,latitude,longitude
+,codigo_postal,localidade,distrito,dist_latitude,dist_longitude
 0,1000,"São Jorge de Arroios, Lisboa",Lisboa,38.7071,-9.135489999999999
 1,1001,"São Jorge de Arroios, Lisboa",Lisboa,38.7071,-9.135489999999999
 2,1002,"São Jorge de Arroios, Lisboa",Lisboa,38.7071,-9.135489999999999
